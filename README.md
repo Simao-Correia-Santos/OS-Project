@@ -17,11 +17,18 @@ partilhada e recolhe a informação (na memoria partilhada encontram-se os senso
 Por fim os resultados obtidos pelos pedidos dos user são devolvidos à respetiva user_console como também os alertas despoletados através de uma message queue sincronizada por um semáforo. Tanto o arranque e o fim do programa, alertas despoletados, mudança da disponibilidade dos workers, sinais recebidos e criação dos processos são escritos num ficheiro de log sincronizado com um semáforo.
 
 
+## 🛠️Testar o Projeto
+1. Abrir um ambiente de desenvolvimento Linux;
+1. Carregar todos os ficheiros .c e Makefile para a mesma diretoria;
+1. Compilar os ficheiros;
+1. Abrir quantos sensores e utilizadores que quiser com ./sensor {nome} {intervalo_tempo} {chave} {min} {max} e ./user_console {id_consola}
+
+
 ## ✔️ Tecnologias utilizadas
 
 - ``C``
 - ``Linux``
 - ``VS Code``
-- ``MakeFile``
+- ``Makefile``
 
 
