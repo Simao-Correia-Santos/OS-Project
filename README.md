@@ -1,5 +1,5 @@
 # Trabalho-SO
-Trabalho académico desenvolvido no âmbito da cadeira de Sistemas Operativos do curso de Engenharia Informática.
+Trabalho académico desenvolvido no âmbito da cadeira de Sistemas Operativos do curso de Engenharia Informática (2022-2023).
 
 ## 🎯Objetivo/Descrição
 O	 trabalho desenvolvido simula	um	ambiente	simplificado	de	 Internet	das	Coisas	onde	vários	 sensores	 enviam	 informação para	 um	 ponto	 centralizado, que	 por	 sua	 vez	armazena	estes	dados,	gera	estatísticas	e	despoleta	alertas	quando	certas	condições	são	atingidas.	
